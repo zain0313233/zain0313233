@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working as **Junior Full Stack Developer** at **Eveonix Pvt Ltd**.
+- 🌱 I’m currently working as **Full Stack Developer** at **Cores Connect**.
 - 💻 I specialize in **React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB**.
 - ☁️ Experienced with **AWS EC2, S3, Docker, Render, Netlify** for deployment.
 - 📌 Passionate about building **scalable apps, clean code, and great UX**.
