@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working as **Full Stack Developer** at **Cores Connect**.
+- 🌱 I'm currently working as **Full Stack Developer** at **Cores Connect**.
 - 💻 I specialize in **React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB**.
 - ☁️ Experienced with **AWS EC2, S3, Docker, Render, Netlify** for deployment.
 - 📌 Passionate about building **scalable apps, clean code, and great UX**.
@@ -43,6 +43,12 @@
 
 ### 📌 Featured Projects
 
+#### 🤖 ChatNova - AI Chat Application
+A full-stack AI-powered chat application with subscription management, user dashboard, and comprehensive admin panel. Features include real-time chat with AI, subscription tiers (Basic, Pro, Enterprise), usage tracking, and admin management system.
+- **Tech Stack:** Next.js, React, Node.js, Express.js, PostgreSQL, JWT Authentication
+- **Features:** AI Chat, Subscription Management, Admin Panel, User Dashboard, Theme Customization
+- **Status:** ✅ Active Development
+
 #### 🛍 E-Commerce Web Application
 Full-stack e-commerce platform with product browsing, shopping cart, payments (Stripe), and role-based authentication.
 - **Frontend:** [e-commerce_fe](https://github.com/zain0313233/e-commerce_fe)  
@@ -53,9 +59,11 @@ Inspired by Asana, built with Next.js & Node.js for task creation, assignment, a
 - **Frontend:** [proximaapp](https://github.com/zain0313233/proximaapp)  
 - **Backend:** [proxima_BE](https://github.com/zain0313233/proxima_BE)  
 
-#### 🎓 CourseHub LMS *(In Progress)*
-A Learning Management System where instructors can upload courses and students can enroll, complete lessons, and earn certifications.  
-- **Frontend:** *(Coming Soon)*
+#### 🎓 CourseHub LMS
+A Learning Management System where instructors can upload courses and students can enroll, complete lessons, and earn certifications.
+- **Status:** 🚧 60% Complete (Frontend & Backend)
+- **Frontend:** *(In Progress)*
+- **Backend:** *(In Progress)*
 
 ---
 
@@ -74,9 +82,10 @@ A Learning Management System where instructors can upload courses and students c
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 <p align="center">
   <a href="mailto:zain.ali.cs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/zain0313233/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://zainfullstackdev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome"></a>
 </p>
+
